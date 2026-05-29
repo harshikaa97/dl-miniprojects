@@ -1,21 +1,81 @@
-# DL Mini Projects
+# Deep Learning Projects @ IIT-BHU
 
-A collection of deep learning projects built during my research internship at IIT-BHU.
-
-## Projects
-
-### Customer Churn Prediction
-Predicts whether a customer will churn using an Artificial Neural Network (ANN) built with TensorFlow/Keras.
-
-**Dataset:** Telco Customer Churn (Kaggle)
-**Model:** ANN — Dense layers + ReLU + Sigmoid output
-**Result:** ~85% accuracy on test set
-
-## Stack
-- Python, TensorFlow, Keras, Pandas, Scikit-learn, Kaggle Notebooks
-
-## Structure
-Each folder = one project. Each project has its own notebook + dataset reference.
+A collection of deep learning and machine learning projects built during my research internship at IIT-BHU.
+This repository showcases hands-on implementations of neural networks, computer vision models, and real-world AI applications using TensorFlow/Keras.
 
 ---
-*Actively updated. New projects added weekly.*
+
+# Projects
+
+## 1. Customer Churn Prediction
+
+Predicts whether a customer will churn using an Artificial Neural Network (ANN).
+
+### Highlights
+
+* Built using TensorFlow/Keras
+* Dense Neural Network architecture
+* Binary classification problem
+* Achieved ~85% test accuracy
+
+### Dataset
+
+Telco Customer Churn Dataset (Kaggle)
+
+### Tech Used
+
+* Python
+* TensorFlow / Keras
+* Pandas
+* Scikit-learn
+
+---
+
+## 2. Dogs vs Cats Image Classification
+
+A CNN-based image classification model that classifies images as either dogs or cats.
+
+### Highlights
+
+* Image preprocessing and augmentation
+* Convolutional Neural Network (CNN) architecture
+* Binary image classification
+* Training + validation workflow
+* Prediction visualization
+
+### Dataset
+
+Dogs vs Cats Dataset (Kaggle)
+
+### Tech Used
+
+* Python
+* TensorFlow / Keras
+* NumPy
+* Matplotlib
+* OpenCV
+
+---
+
+# Repository Structure
+
+Each folder represents an individual project and contains:
+
+* Jupyter Notebook
+* Dataset reference
+* Model implementation
+* Training workflow
+* Evaluation results
+
+---
+
+# Goals
+
+This repository is part of my journey in:
+
+* Deep Learning
+* Computer Vision
+* Neural Networks
+* Applied AI Research
+
+New projects and experiments are added regularly.
